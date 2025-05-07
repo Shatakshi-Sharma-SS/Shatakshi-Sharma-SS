@@ -22,8 +22,12 @@
 ---
 
 ### **Featured Projects**
-- **[Superstore Sales Analysis](
-     The Superstore Sales Analysis project involves a comprehensive analysis of sales data to identify key insights related to profit margins, sales trends, and regional performance. Advanced data manipulation and visualization techniques were employed to extract actionable patterns, which were then presented through a professional dashboard. A detailed recommendations sheet was developed, providing strategic insights aimed at improving profitability based on the findings. This project highlights the ability to transform complex data into meaningful business strategies and actionable recommendations. 
+ **Superstore Sales Analysis - [View Project](https://github.com/Shatakshi-Sharma-SS/Superstore_Sales_Analysis)**
+ 
+- The Superstore Sales Analysis project involves a comprehensive analysis of sales data to identify key insights related to profit margins, sales trends, and regional performance. 
+- Advanced data manipulation and visualization techniques were employed to extract actionable patterns, which were then presented through a professional dashboard. 
+- A detailed recommendations sheet was developed, providing strategic insights aimed at improving profitability based on the findings. 
+- This project highlights the ability to transform complex data into meaningful business strategies and actionable recommendations. 
 
 ---
 
