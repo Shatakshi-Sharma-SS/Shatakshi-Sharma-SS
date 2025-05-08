@@ -41,4 +41,4 @@
   ---
 
   ### **Let's Connect**
-  I'm always exploring new ways to generate value through data. Feel free to check out my project or connect if you're interested in analytics and business problem-solving.
+  I'm always exploring new ways to generate value through data. Feel free to check out my project or connect if you're interested.
